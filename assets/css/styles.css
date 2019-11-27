@@ -1096,3 +1096,11 @@ a.btn-cta {
     min-height: 40px;
     }
 }
+.epta {
+    background-image: url('../images/feature-1.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 757px;
+}
