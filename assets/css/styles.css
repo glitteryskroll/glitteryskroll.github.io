@@ -1102,5 +1102,6 @@ a.btn-cta {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-position: center center;
     min-height: 757px;
 }
