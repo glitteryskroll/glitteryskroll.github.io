@@ -1078,3 +1078,21 @@ a.btn-cta {
 .img-responsive1234 {
    padding-left: 20%;
 }
+@media (max-width: 1000px) {
+    .header.header-scrolled {
+    background: #fff;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    min-height: 113px;
+    }
+}
+@media (max-width: 760px){
+    .header.header-scrolled {
+    background: #fff;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    min-height: 40px;
+    }
+}
